@@ -12,7 +12,7 @@ public class BaseTest {
 	public void testMethod()
 	{
 		//WebDriver driver = new ChromeDriver();
-		System.out.println("Test Data1232");
+		System.out.println("Test Data1232")
 	}
 
 }
